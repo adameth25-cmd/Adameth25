@@ -1,0 +1,51 @@
+date,home_team,away_team,home_score,away_score,result
+05-01-2025,Arsenal,Chelsea,2,1,Home_Win
+06-01-2025,Barcelona,Real Madrid,1,1,Draw
+07-01-2025,Bayern Munich,Dortmund,3,2,Home_Win
+08-01-2025,PSG,Lyon,2,0,Home_Win
+09-01-2025,Juventus,AC Milan,0,1,Away_Win
+10-01-2025,Liverpool,Everton,2,2,Draw
+11-01-2025,Man City,Man United,3,1,Home_Win
+12-01-2025,Atletico Madrid,Sevilla,1,0,Home_Win
+13-01-2025,Inter,Napoli,1,1,Draw
+14-01-2025,Ajax,PSV,0,2,Away_Win
+15-01-2025,Porto,Benfica,2,2,Draw
+16-01-2025,Sporting,Braga,3,1,Home_Win
+17-01-2025,Leverkusen,Leipzig,1,2,Away_Win
+18-01-2025,Roma,Lazio,2,1,Home_Win
+19-01-2025,Tottenham,West Ham,1,1,Draw
+20-01-2025,Newcastle,Aston Villa,0,2,Away_Win
+21-01-2025,Brighton,Fulham,2,0,Home_Win
+22-01-2025,Wolves,Burnley,1,0,Home_Win
+23-01-2025,Leeds,Sheffield United,2,1,Home_Win
+24-01-2025,Monaco,Nice,1,1,Draw
+25-01-2025,Marseille,Lille,0,1,Away_Win
+26-01-2025,Fiorentina,Torino,2,0,Home_Win
+27-01-2025,Bologna,Udinese,1,1,Draw
+28-01-2025,Valencia,Villarreal,0,2,Away_Win
+29-01-2025,Betis,Sociedad,2,2,Draw
+30-01-2025,Celtic,Rangers,1,3,Away_Win
+31-01-2025,Galatasaray,Fenerbahce,2,1,Home_Win
+01-02-2025,Ajax,Feyenoord,3,2,Home_Win
+02-02-2025,PSG,Monaco,1,0,Home_Win
+03-02-2025,Chelsea,Liverpool,0,2,Away_Win
+04-02-2025,Man United,Arsenal,1,1,Draw
+05-02-2025,Napoli,Roma,3,1,Home_Win
+06-02-2025,Sevilla,Valencia,2,0,Home_Win
+07-02-2025,Dortmund,Stuttgart,1,0,Home_Win
+08-02-2025,Leipzig,Union Berlin,2,2,Draw
+09-02-2025,Milan,Inter,0,1,Away_Win
+10-02-2025,Everton,Leicester,2,1,Home_Win
+11-02-2025,Southampton,Brentford,1,1,Draw
+12-02-2025,Crystal Palace,Bournemouth,0,2,Away_Win
+13-02-2025,Nottingham Forest,Luton,3,1,Home_Win
+14-02-2025,West Ham,Chelsea,1,2,Away_Win
+15-02-2025,Barcelona,Atletico Madrid,2,0,Home_Win
+16-02-2025,Real Sociedad,Osasuna,1,0,Home_Win
+17-02-2025,Athletic Bilbao,Alaves,2,2,Draw
+18-02-2025,Granada,Getafe,0,1,Away_Win
+19-02-2025,Cadiz,Mallorca,1,1,Draw
+20-02-2025,Valladolid,Girona,2,3,Away_Win
+21-02-2025,Valladolid,Girona,3,4,Draw
+22-02-2025,Everton,Leicester,4,2,Draw
+23-02-2025,Nottingham Forest,Luton,1,3,Home_Win
